@@ -10,3 +10,5 @@ Program asks user input for:
   range of numbers from which operands will be randomly generated
   
  After taking in all this information, program creates at .txt file with questions and saves into local directory.
+
+Next step is dockerize this application
